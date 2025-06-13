@@ -1,6 +1,6 @@
-# Hey, I'm Vardhin 🌟
+# I, Vardhin, Have a Dream!
 
-*Code is art. Every line breathes life into imagination.*
+*To code is to make art, art that breathes, art that moves, and art that lives on*
 
 ## Who Am I? 
 
@@ -19,7 +19,7 @@ A messaging app where your data belongs to **you** and only you. Built with:
 - **GunDB** for decentralized data
 - **WebTorrent** for peer-to-peer magic  
 - **Svelte** frontend (because React is overrated)
-- **Patent pending** for the architecture
+- **Patent published** for the architecture
 
 It's still evolving, but it's my pride and joy - true privacy without compromises.
 
@@ -37,7 +37,7 @@ Custom GLSL shaders simulating realistic clouds, sky, sun, moon, and twinkling s
 **Languages I Speak:** Telugu (mother tongue ❤️), English, Hindi, Tamil (learning), Japanese (dabbling)  
 **OS:** Arch Linux + Hyprland (because customization is life)
 
-**What I avoid:** Cloud services are my arch nemesis. If it can't run locally or peer-to-peer, I'm probably not interested.
+**What I fukin hate:** Cloud services! Cloud my dear arch nemesis. If it can't run locally or peer-to-peer, I'm not interested man.
 
 ---
 
@@ -48,7 +48,7 @@ Custom GLSL shaders simulating realistic clouds, sky, sun, moon, and twinkling s
 **Psychology:** Understanding what makes humans tick  
 **Philosophy:** Optimistically charging ahead, using setbacks as a sculptor's chisel
 
-**Current linguistic adventure:** Learning Tamil, because every language is a new way to think.
+**Current linguistic adventure:** Learning Tamil, because every language is a new way to think, and damn this unlocked a horizon for me.
 
 ---
 
@@ -74,4 +74,4 @@ I'm always looking for passionate souls to build amazing things with. Skill leve
 
 ---
 
-*"Whatever I do, I put my soul into it. Code isn't just logic - it's poetry in motion, dreams taking digital form."*
+*"Whatever I do, I put my soul into it. Code isn't just logic - it's poetry that's alive, dreams that live."*
