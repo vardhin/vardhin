@@ -34,9 +34,12 @@ I'm someone who sees code as sculpture and pixels as poetry. I dive headfirst in
 
 <div align="center">
 
-![Vardhin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vardhin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
+![Profile Views](https://komarev.com/ghpvc/?username=vardhin&color=6366f1&style=for-the-badge)
+[![GitHub followers](https://img.shields.io/github/followers/vardhin?label=Followers&style=for-the-badge&color=6366f1)](https://github.com/vardhin)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vardhin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
+<br><br>
+
+*Building the future, one pixel at a time*
 
 </div>
 
@@ -45,13 +48,6 @@ I'm someone who sees code as sculpture and pixels as poetry. I dive headfirst in
 </table>
 
 <br>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=vardhin&color=6366f1&style=for-the-badge)
-[![GitHub followers](https://img.shields.io/github/followers/vardhin?label=Followers&style=for-the-badge&color=6366f1)](https://github.com/vardhin)
-
-</div>
 
 ---
 
