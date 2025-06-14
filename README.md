@@ -15,6 +15,7 @@
 ```
 
 <div align="center">
+
 ![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <p><i>To code is to make art, art that breathes, art that moves, and art that lives on</i></p>
