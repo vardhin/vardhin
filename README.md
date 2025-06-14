@@ -15,13 +15,9 @@
 ```
 
 <div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=I%2C+Vardhin%2C+Have+a+Dream!" alt="Typing SVG" />
-
-<p><i>To code is to make art, art that breathes, art that moves, and art that lives on</i></p>
-
 ![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
+<p><i>To code is to make art, art that breathes, art that moves, and art that lives on</i></p>
 </div>
 
 <table>
