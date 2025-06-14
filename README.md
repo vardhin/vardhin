@@ -36,14 +36,6 @@ I'm someone who sees code as sculpture and pixels as poetry. I dive headfirst in
 </td>
 <td width="50%">
 
-<div align="center">
-
-<br><br>
-
-*Building the future, one pixel at a time*
-
-</div>
-
 </td>
 </tr>
 </table>
