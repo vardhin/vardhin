@@ -38,9 +38,6 @@ I'm someone who sees code as sculpture and pixels as poetry. I dive headfirst in
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=vardhin&color=6366f1&style=for-the-badge)
-[![GitHub followers](https://img.shields.io/github/followers/vardhin?label=Followers&style=for-the-badge&color=6366f1)](https://github.com/vardhin)
-
 <br><br>
 
 *Building the future, one pixel at a time*
