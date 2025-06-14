@@ -21,10 +21,6 @@
 <p><i>To code is to make art, art that breathes, art that moves, and art that lives on</i></p>
 </div>
 
-<table>
-<tr>
-<td width="50%">
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Who Am I?
 
 I'm someone who sees code as sculpture and pixels as poetry. I dive headfirst into the unknown, treating mountains like haybales and turning wild ideas into living, breathing experiences.
@@ -33,12 +29,6 @@ I'm someone who sees code as sculpture and pixels as poetry. I dive headfirst in
 
 **My philosophy:** The journey is everything. I don't just write code; I craft experiences that have soul.
 
-</td>
-<td width="50%">
-
-</td>
-</tr>
-</table>
 
 <br>
 
